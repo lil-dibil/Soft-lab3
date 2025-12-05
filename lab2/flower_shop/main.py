@@ -6,6 +6,8 @@
     Для реализации будет использоваться фреймворк Flask или аналогичный инструмент.
 """
 
+# Это тестовое изменение для ветки dev
+
 from catalog import show_catalog
 from cart import Cart
 from order import create_order
