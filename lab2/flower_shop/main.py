@@ -8,6 +8,8 @@
 
 # Это тестовое изменение для ветки dev
 
+# Это ещё одно тестовое изменение для ветки div
+
 from catalog import show_catalog
 from cart import Cart
 from order import create_order
