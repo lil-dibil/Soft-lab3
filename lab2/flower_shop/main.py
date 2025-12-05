@@ -10,6 +10,8 @@
 
 # Это ещё одно тестовое изменение для ветки div
 
+# TODO: Финальное тестовое изменение для push из 5 задания!
+
 from catalog import show_catalog
 from cart import Cart
 from order import create_order
